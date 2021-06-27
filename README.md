@@ -12,6 +12,10 @@ Let s be a string of lowercase characters. This program prints the longest subst
 
 You think of an integer between 0 (inclusive) and 100 (not inclusive). The computer makes guesses, and you give it inputs: is its guess too high or too low ? Using bisection search, the computer will guess your secret number
 
+- Unit02_iterationXrecursion
+
+Series of exercises to present the difference, as well as advantages and disadvantages in solving problems with iteration and recursion
+
 - Unit03_hangman
 
 Hangman game : you have 8 guesses to find out the word that was randomly loaded from the words.txt file
