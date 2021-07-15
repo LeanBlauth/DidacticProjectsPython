@@ -34,4 +34,4 @@ Word Game: This game is a lot like Scrabble, if you've played it. Letters are de
 
 - Unit05_caesarCipher
 
-The idea of the Caesar Cipher encryption is to pick an integer s and shift every letter of the message by that integer s. Then the decryption process consists on performing a shift of 26-s. The program plays with encryption and decrypts an short encrypted story
+The idea of the Caesar Cipher encryption is to pick an integer s and shift every letter of the message by that integer s. Then the decryption process consists on performing a shift of 26-s. The program plays with encryption and decrypts a short encrypted story
