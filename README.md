@@ -18,12 +18,16 @@ Series of exercises to present the difference, as well as advantages and disadva
 
 - Unit02_debtCalculations
 
-Unit_2_ProblemSet_2_1_debtAfterYear: calculates the credit card balance after one year if a person only pays the minimum monthly payment (4%) required by the credit card company each month
+Unit_2_ProblemSet_2_1_debtAfterYear: Calculates the credit card balance after one year if a person only pays the minimum monthly payment (4%) required by the credit card company each month
 
-Unit_2_ProblemSet_2_2_minimumPayOff: calculates the minimum fixed monthly payment (multiple of $10) needed in order pay off a credit card balance within 12 months
+Unit_2_ProblemSet_2_2_minimumPayOff: Calculates the minimum fixed monthly payment (multiple of $10) needed in order pay off a credit card balance within 12 months
 
-Unit_2_ProblemSet_2_3_bisectionEfficiency: uses bisection search to make the program more efficient: finds the result faster while being more precise also - accurate to the cent instead of finding a result that is multiple of $10
+Unit_2_ProblemSet_2_3_bisectionEfficiency: Uses bisection search to make the program more efficient: finds the result faster while being more precise also - accurate to the cent instead of finding a result that is multiple of $10
 
 - Unit03_hangman
 
-Hangman game : you have 8 guesses to find out the word that was randomly loaded from the words.txt file
+Hangman game : You have 8 guesses to find out the word that was randomly loaded from the words.txt file
+
+- Unit04_wordGame
+
+Word Game: This game is a lot like Scrabble, if you've played it. Letters are dealt to the user, who then construct one or more words out of them. Each valid word receives a score, based on the length of the word and the letters in that word. The file finished with '_wPC' let's you play with the computer
