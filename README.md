@@ -31,3 +31,7 @@ Hangman game : You have 8 guesses to find out the word that was randomly loaded 
 - Unit04_wordGame
 
 Word Game: This game is a lot like Scrabble, if you've played it. Letters are dealt to the user, who then construct one or more words out of them. Each valid word receives a score, based on the length of the word and the letters in that word. The file finished with '_wPC' let's you play with the computer
+
+- Unit05_caesarCipher
+
+The idea of the Caesar Cipher encryption is to pick an integer s and shift every letter of the message by that integer s. Then the decryption process consists on performing a shift of 26-s. The program plays with encryption and decrypts an short encrypted story
