@@ -52,3 +52,7 @@ Word Game: This game is a lot like Scrabble, if you've played it. Letters are de
 - Unit05_caesarCipher
 
 The idea of the Caesar Cipher encryption is to pick an integer s and shift every letter of the message by that integer s. Then the decryption process consists on performing a shift of 26-s. The program plays with encryption and decrypts a short encrypted story
+
+- Unit07_finalExam_digitSum
+
+Returns the sum of all of the digits in a given string s. If there are no digits in s it raises a ValueError exception.
