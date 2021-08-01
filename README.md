@@ -55,4 +55,8 @@ The idea of the Caesar Cipher encryption is to pick an integer s and shift every
 
 - Unit07_finalExam_digitSum
 
-Returns the sum of all of the digits in a given string s. If there are no digits in s it raises a ValueError exception.
+Returns the sum of all of the digits in a given string s. If there are no digits in s it raises a ValueError exception
+
+- Unit07_finalExam_myDict
+
+Implements a dictionary without actually using a dictionary
