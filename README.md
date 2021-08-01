@@ -60,3 +60,7 @@ Returns the sum of all of the digits in a given string s. If there are no digits
 - Unit07_finalExam_myDict
 
 Implements a dictionary without actually using a dictionary
+
+- Unit07_finalExam_uniqueValues
+
+Given a dictionary, returns a sorted list of keys that map to unique values. Empty list if no values comply with the rule
