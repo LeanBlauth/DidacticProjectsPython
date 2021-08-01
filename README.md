@@ -42,8 +42,9 @@ Recursive procedure which laces together two strings. It should not use any expl
 
 - Unit03_midTerm_polynomeEval
 
-Numerical evaluation of a polynome. Let L be a list of numbers (n0, n1, n2, ... nk). Returns a function, which when applied to a value x, returns the value
-        n0 * x^k + n1 * x^(k-1) + ... nk * x^0
+Numerical evaluation of a polynome. Let L be a list of numbers (n0, n1, n2, ... nk). Returns a function, which when applied to a value x, returns the value:
+
+n0 * x^k + n1 * x^(k-1) + ... nk * x^0
 
 - Unit04_wordGame
 
