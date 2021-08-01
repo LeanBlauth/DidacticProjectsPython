@@ -28,6 +28,23 @@ Unit_2_ProblemSet_2_3_bisectionEfficiency: Uses bisection search to make the pro
 
 Hangman game : You have 8 guesses to find out the word that was randomly loaded from the words.txt file
 
+- Unit03_midTerm_deepReverse
+
+Let L be a list of lists whose elements are ints. This function mutates L such that it reverses its elements and also reverses the order of the int elements in every element of L
+
+- Unit03_midTerm_keyFilter
+
+Function that returns a list of keys in a dictionary with the value target. The list of returned keys should be sorted in increasing order. The keys and values are both integers. If the dictionary does not contain the value target, it should return an empty list
+
+- Unit03_midTerm_lacedStrings
+
+Recursive procedure which laces together two strings. It should not use any explicit loop mechanism, such as a for or while loop
+
+- Unit03_midTerm_polynomeEval
+
+Numerical evaluation of a polynome. Let L be a list of numbers (n0, n1, n2, ... nk). Returns a function, which when applied to a value x, returns the value
+        n0 * x^k + n1 * x^(k-1) + ... nk * x^0
+
 - Unit04_wordGame
 
 Word Game: This game is a lot like Scrabble, if you've played it. Letters are dealt to the user, who then construct one or more words out of them. Each valid word receives a score, based on the length of the word and the letters in that word. The file finished with '_wPC' let's you play with the computer
